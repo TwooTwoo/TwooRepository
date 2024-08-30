@@ -22,6 +22,6 @@
   <br>
 </div>
 
-## journey to A+
+## Journey to A+
 ![TwooTwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwooTwoo&show_icons=true&theme=tokyonight)
 
