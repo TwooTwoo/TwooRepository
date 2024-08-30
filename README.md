@@ -22,5 +22,5 @@
   <br>
 </div>
 
-[![TwooTwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwooTwoo&show_icons=true&theme=tokyonight)]
+![TwooTwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwooTwoo&show_icons=true&theme=tokyonight)
 
